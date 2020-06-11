@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.thanhpt0105</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>first_release</version>
+    <version>1.1-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Pet Clinic</description>
 
@@ -54,6 +54,6 @@
     </build>
     <scm>
         <developerConnection>scm:git:git@github.com:thanhpt0105/pet-clinic.git</developerConnection>
-        <tag>first_release</tag>
+        <tag>HEAD</tag>
     </scm>
 </project>
