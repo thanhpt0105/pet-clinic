@@ -12,4 +12,9 @@ public class IndexController {
         model.addAttribute("welcome", "Example Text test reload");
         return "index";
     }
+
+    @RequestMapping({"/oups"})
+    public String oupsHandler() {
+        return "notImplemented";
+    }
 }
