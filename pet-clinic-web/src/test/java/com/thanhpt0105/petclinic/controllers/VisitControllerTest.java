@@ -84,9 +84,7 @@ class VisitControllerTest {
                 .build();
     }
 
-    @Test
-    void loadPetWithVisit() {
-    }
+
 
     @Test
     void initNewVisitForm() throws Exception {
